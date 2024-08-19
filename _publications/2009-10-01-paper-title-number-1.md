@@ -3,9 +3,6 @@ title: "A Single-Ply and Knit-Only Textile Sensing Matrix for Mapping Body Surfa
 collection: publications
 category: manuscripts
 permalink: https://ieeexplore.ieee.org/abstract/document/10591632
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Zhen Liang, Mengting Niu, Fangting Xie, Dongquan Zhang, Liyun Dai and Xiaohui Cai, IEEE Sensors Journal, 2024.'
