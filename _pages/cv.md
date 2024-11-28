@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Master of CS in University of Science and Technology of China, 2024
-* Bachelor of CS in University of Science and Technology of China, 2021
+* Master of Science, University of Science and Technology of China, 2024
+* Bachelor of Engineering, University of Science and Technology of China, 2021
 
 Research Experiences
 ======
@@ -47,7 +47,7 @@ Honors & Awards
 * First Class Academic Scholarship for Master Student (2023)
 * First Class Academic Scholarship for Master Student (2022)
 * First Class Academic Scholarship for Master Student (2021)
-* 2020 Scholarship for Outstanding Students (Bronze Adward)
+* 2020 Scholarship for Outstanding Students (Bronze Award)
 
 Publications
 ======
